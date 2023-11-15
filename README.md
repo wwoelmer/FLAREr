@@ -3,7 +3,7 @@
 [![Codecov test coverage](https://codecov.io/gh/FLARE-forecast/FLAREr/branch/master/graph/badge.svg)](https://codecov.io/gh/FLARE-forecast/FLAREr?branch=master)
 <!-- badges: end -->
 
-# FLAREr
+# FLAREr package archived for reproducing analysis of forecasts from Lake Sunpaee, NH for manuscript
 
 The [FLARE project](Forecasting Lake and Reservoir Ecosystems)(https://flare-forecast.org/) creates open-source software for flexible, scalable, robust, and near-real time iterative ecological forecasts in lakes and reservoirs. It uses data assimilation to update the initial starting point for a forecast and the model parameters based a real-time statistical comparisons to observations. It has been developed, tested, and evaluated for Falling  Creek Reservoir in Vinton, VA ([Thomas et al. 2020](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026138)).
 
